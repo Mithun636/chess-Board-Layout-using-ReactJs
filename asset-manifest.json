@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mithun636/chess-Board-Layout-using-ReactJs.git/static/css/main.5449b7ba.css",
+    "main.js": "/Mithun636/chess-Board-Layout-using-ReactJs.git/static/js/main.ecb00057.js",
+    "static/js/453.aea98659.chunk.js": "/Mithun636/chess-Board-Layout-using-ReactJs.git/static/js/453.aea98659.chunk.js",
+    "static/media/chess.jpg": "/Mithun636/chess-Board-Layout-using-ReactJs.git/static/media/chess.6901fd11248efff5e04a.jpg",
+    "index.html": "/Mithun636/chess-Board-Layout-using-ReactJs.git/index.html",
+    "main.5449b7ba.css.map": "/Mithun636/chess-Board-Layout-using-ReactJs.git/static/css/main.5449b7ba.css.map",
+    "main.ecb00057.js.map": "/Mithun636/chess-Board-Layout-using-ReactJs.git/static/js/main.ecb00057.js.map",
+    "453.aea98659.chunk.js.map": "/Mithun636/chess-Board-Layout-using-ReactJs.git/static/js/453.aea98659.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5449b7ba.css",
+    "static/js/main.ecb00057.js"
+  ]
+}
